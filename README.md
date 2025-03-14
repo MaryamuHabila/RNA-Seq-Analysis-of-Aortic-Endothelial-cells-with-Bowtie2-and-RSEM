@@ -1,0 +1,2 @@
+# RNA-Seq-Analysis-of-Aortic-Endothelial-cells-with-Bowtie2-and-RSEM
+This guide provides a step-by-step explanation of an RNA sequencing (RNA-seq) pipeline using Bowtie2 for read alignment and RSEM for transcript quantification. It covers essential concepts, command breakdowns, expected outputs, and the role of each step in processing paired-end RNA-seq data from raw from raw reads to gene expression quantification.
