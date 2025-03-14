@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir -p RSEM_Results
 
 for sample in C1_311 C2_212 C2_312 C3_212 LD2_212 LD2_312 LD3_212 LD3_312
